@@ -1,6 +1,6 @@
 *.swp
 /*.egg-info/
-/Pipfile.lock
 /build/
 /dist/
+Pipfile.lock
 __pycache__/
